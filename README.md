@@ -1,0 +1,2 @@
+# Pruebas-Cypress
+Pruebas automatizadas
